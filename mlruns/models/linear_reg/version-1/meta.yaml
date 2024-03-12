@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1710240215510
+current_stage: None
+description: ''
+last_updated_timestamp: 1710240215510
+name: linear_reg
+run_id: 33dcd93c6ccd4bdd84d1c0d721f8cdbb
+run_link: ''
+source: s3://data/587785263722309128/33dcd93c6ccd4bdd84d1c0d721f8cdbb/artifacts/linear_reg
+status: READY
+status_message: null
+storage_location: s3://data/587785263722309128/33dcd93c6ccd4bdd84d1c0d721f8cdbb/artifacts/linear_reg
+user_id: null
+version: 1

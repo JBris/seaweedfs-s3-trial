@@ -1,0 +1,15 @@
+artifact_uri: s3://data/587785263722309128/ea1778c703304c139f87716dab25c091/artifacts
+end_time: 1710240146042
+entry_point_name: ''
+experiment_id: '587785263722309128'
+lifecycle_stage: active
+run_id: ea1778c703304c139f87716dab25c091
+run_name: caring-duck-875
+run_uuid: ea1778c703304c139f87716dab25c091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710240139874
+status: 3
+tags: []
+user_id: jbris

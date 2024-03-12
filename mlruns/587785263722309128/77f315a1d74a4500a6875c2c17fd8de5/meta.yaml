@@ -1,0 +1,15 @@
+artifact_uri: s3://data/587785263722309128/77f315a1d74a4500a6875c2c17fd8de5/artifacts
+end_time: 1710240114967
+entry_point_name: ''
+experiment_id: '587785263722309128'
+lifecycle_stage: active
+run_id: 77f315a1d74a4500a6875c2c17fd8de5
+run_name: amusing-cub-828
+run_uuid: 77f315a1d74a4500a6875c2c17fd8de5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710240114740
+status: 3
+tags: []
+user_id: jbris

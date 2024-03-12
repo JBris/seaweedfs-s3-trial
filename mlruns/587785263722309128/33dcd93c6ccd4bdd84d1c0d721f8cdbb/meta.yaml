@@ -1,0 +1,15 @@
+artifact_uri: s3://data/587785263722309128/33dcd93c6ccd4bdd84d1c0d721f8cdbb/artifacts
+end_time: 1710240215671
+entry_point_name: ''
+experiment_id: '587785263722309128'
+lifecycle_stage: active
+run_id: 33dcd93c6ccd4bdd84d1c0d721f8cdbb
+run_name: unequaled-skunk-35
+run_uuid: 33dcd93c6ccd4bdd84d1c0d721f8cdbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710240212706
+status: 3
+tags: []
+user_id: jbris
